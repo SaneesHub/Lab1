@@ -1,0 +1,79 @@
+ul li a {
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+ul li {
+    list-style-type: none;
+    color: darkgrey;
+}
+body{
+    padding: 10px;
+    margin: 10px;
+    font-size: 17px;
+}
+.content {
+    margin: 20px;
+    display: flex; 
+}
+
+.mainblock {
+    margin-left: 250px;
+    margin-bottom: 100px;
+    padding: 8px;
+    flex: 1; 
+    border: 1px solid rgb(123, 180, 247);
+}
+
+.wiki_left {
+    margin-left: 30px;
+}
+
+.right_panel {
+    border: 1px solid rgb(165, 173, 182);
+    margin-left: 20px;
+    width: 300px;
+    height: 890px;
+    text-align: center;
+    padding: 10px;
+    background-color:rgb(225, 227, 228);
+}
+.right_panel img{
+    width: 150px;
+}
+
+p {
+    padding: 15px;
+    margin-top: 50px;
+    width: 1000px;
+}
+
+.left_panel {
+    height: 100px;
+    width: 300px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px; 
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(146, 186, 205);
+}
+
+ol ol {
+    list-style-type: none;
+}
+ol li {
+    margin: 10px;
+}
+.cont{
+    width: 500px;
+    border: 1px solid rgb(168, 175, 184);
+    background-color: rgb(225, 227, 228);
+}
+table tr{
+    text-align: left;
+}
